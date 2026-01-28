@@ -2,8 +2,6 @@
 
 A comprehensive technical specification for GenLayer's Intelligent Contract architecture, covering performance benchmarking, security analysis, and protocol enhancements.
 
-**Version 3.0 - API-Corrected Final Edition**
-
 ## Overview
 
 This repository contains the final corrected technical framework for GenLayer Intelligent Contracts. All pseudocode examples match the actual GenLayer SDK API (v0.1.3+).
