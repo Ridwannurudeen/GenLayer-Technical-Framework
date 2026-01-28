@@ -4,7 +4,7 @@ A comprehensive technical specification for GenLayer's Intelligent Contract arch
 
 ## Overview
 
-This repository contains the final corrected technical framework for GenLayer Intelligent Contracts. All pseudocode examples match the actual GenLayer SDK API (v0.1.3+).
+This repository contains the technical framework for GenLayer Intelligent Contracts. All pseudocode examples match the actual GenLayer SDK API (v0.1.3+).
 
 ## Documents
 
